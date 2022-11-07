@@ -1,5 +1,10 @@
 # requirments
 
+
+
+
+
+
 snowflake-connector-python
 
 
